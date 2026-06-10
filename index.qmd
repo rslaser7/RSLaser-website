@@ -1,15 +1,6 @@
 ---
-title: "Rikki S. Laser"
-about:
-  template: jolla
-  image: images/Vole_covering_pups.png
-  links:
-    - icon: github
-      text: Github
-      href: https://github.com/<rlaser7>
+title: "RSLaser-website"
 ---
-
-Test! Voles! Temperature! Yee!
 
 This is a Quarto website.
 
@@ -18,11 +9,3 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 ```{r}
 1 + 1
 ```
-
-## Education
-
-B.S., University of Iowa
-
-M.A., Cornell University
-
-Ph.D., Cornell University (expected completion: 2027)
