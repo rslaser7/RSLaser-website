@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "RSLaser-website",
+    "objectID": "test.html",
+    "href": "test.html",
+    "title": "Test",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "This is a test. Voles are very cute."
   },
   {
     "objectID": "about.html",
@@ -14,10 +14,10 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "test.html",
-    "href": "test.html",
-    "title": "Test",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "RSLaser-website",
     "section": "",
-    "text": "This is a test. Voles are very cute."
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   }
 ]
