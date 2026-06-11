@@ -4,8 +4,7 @@ about:
   template: jolla
   image: images/Vole_covering_pups.png
   links:
-    - icon: github
-      text: Github
+    - text: Github
       href: https://github.com/rlaser7
 ---
 
