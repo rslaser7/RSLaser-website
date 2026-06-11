@@ -1,11 +1,8 @@
 ---
 title: "Test"
 about:
-  template: jolla
+  template: trestles
   image: images/Vole_covering_pups.png
-  links:
-    - text: Github
-      href: https://github.com/rlaser7
 ---
 
 This is a test. Voles are very cute.

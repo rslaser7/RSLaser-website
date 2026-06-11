@@ -2,10 +2,10 @@
 title: "Rikki S. Laser"
 image: images/rsl_photo.jpg
 about:
-  template: trestles
+  template: jolla
   links:
     - text: Github
-      href: https://github.com/rlaser7
+      href: https://github.com/rslaser7
     - text: GScholar
       url: https://scholar.google.com/citations?user=D5kTCYMAAAAJ&hl=en&oi=ao
 
