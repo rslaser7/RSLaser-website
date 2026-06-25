@@ -26,3 +26,18 @@ PDF test
 {{< downloadthis images/P30_prairie_vole_juvenile_laying_down_RSL.png dname="P30_prairie_vole_juvenile_laying_down_RSL.png" >}}
 :::
 :::::
+
+
+<br>
+second test
+
+
+::::: {layout="[49,-2,49]" layout-valign="bottom" layout-ncol=2}
+
+![Prairie vole adult](images/PrairieVoleAdult2023RSL.png)
+{{< downloadthis images/PrairieVoleAdult2023RSL.png dname="Adult_Prairie_Vole_RSL.png" >}}
+
+![Prairie vole juvenile standing](images/P30_prairie_vole_juvenile_standing_RSL.png)
+{{< downloadthis images/P30_prairie_vole_juvenile_standing_RSL.png dname="P30_prairie_vole_juvenile_standing_RSL.png" >}}
+:::::
+i like the formatting of second test better

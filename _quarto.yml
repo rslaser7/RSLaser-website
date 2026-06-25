@@ -10,8 +10,8 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - test.qmd
       - Research.qmd
+      - test.qmd
 
 format:
   html:
