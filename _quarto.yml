@@ -11,6 +11,7 @@ website:
         text: Home
       - about.qmd
       - test.qmd
+      - Research.qmd
 
 format:
   html:
