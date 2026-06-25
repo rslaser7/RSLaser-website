@@ -1,12 +1,28 @@
 ---
-title: "Test"
+title: "Science art resources"
 about:
   template: trestles
-  image: images/Vole_covering_pups.png
+  image: images/Vole_covering_pups_RSL.png
 ---
 
 This is a test. Voles are very cute.
 
-To do:
-- add research blurbs + publications list
-- add illustrations and crochet patterns
+To do: - add research blurbs + publications list - add illustrations and crochet patterns
+
+PDF test
+{{< downloadthis images/IncubatorSetup.pdf dname="test.pdf" >}}
+
+::::: columns
+::: {.column width="49%"}
+![Prairie vole parent covering pups](images/Vole_covering_pups_RSL.png)
+{{< downloadthis images/Vole_covering_pups_RSL.png dname="Vole_covering_pups_RSL.png" >}}
+:::
+
+::: {.column width="2%"}
+::: 
+
+::: {.column width="49%"}
+![Prairie vole juvenile laying down](images/P30_prairie_vole_juvenile_laying_down_RSL.png)
+{{< downloadthis images/P30_prairie_vole_juvenile_laying_down_RSL.png dname="P30_prairie_vole_juvenile_laying_down_RSL.png" >}}
+:::
+:::::
