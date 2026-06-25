@@ -6,3 +6,7 @@ about:
 ---
 
 This is a test. Voles are very cute.
+
+To do:
+- add research blurbs + publications list
+- add illustrations and crochet patterns
